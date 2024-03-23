@@ -1,0 +1,50 @@
+{
+    "token": "MTE4Njk0NTA0Nzk4ODU1NTgyNg.GjfKIU.ROwXT0PsjRnW2IIOFTTLsPQeX6JzlIyc9CnzXQ",
+    "guild-id": "1167545485536542740",
+    
+    "gen-channels": [
+        1185898268182454392
+    ],
+    
+    "roles": {
+        "free-role": "1185898119863476235",
+        "premium-role": "1175089719852412958",
+        "booster-role": "269539324931742842"
+    },
+
+    "cooldowns": {
+        "_comment": "these values are in minutes",
+        "normal": 0,
+        "booster": 3,
+        "premium": 1
+    },
+
+    "admins": [
+        1184782119717847090
+    ],
+
+    "messages": {
+        "noperms": ":neutral_face: ",
+        "wrongchannel": ":thinking: ",
+
+        "cookie-altmessage-switch": false,
+        "altsent": "Thank you for using X-Zone GEN Bot"
+    },
+
+    "generate-settings": {
+        "color": 1288807,
+        "gif-img-url": "https://media.discordapp.net/attachments/1184230062921363458/1186325781241155635/standard_2.gif?ex=6592d6fb&is=658061fb&hm=6a775b904d1a8c65daf43ada53651259adc7c0aa9d5b6559f6c7c964652dc679&"
+    },
+
+    "colors": {
+        "error": 16713025,
+        "success": 1288807,
+        "stock": 7229605
+    },
+
+    "_comment2": "Size for uploading stock. Default: 2097152 == 2mb",
+    "maximum-file-size": 2097152,
+
+    "cookie-seperator": "---------------------------",
+    "logs-webhook": null
+}
